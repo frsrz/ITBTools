@@ -1,5 +1,6 @@
 Simple tool to extract the resources stored in the custom DAT format used by the Into the Breach game.
 
+------------------
 
 DAT File format
 ---------------
@@ -29,7 +30,7 @@ File name (FN):		  	FNL
 
 File data (FD):		  	FDL
 
-
+------------------
 
 License 
 -------
